@@ -346,9 +346,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-15.75"
-     inkscape:cy="30"
+     inkscape:zoom="8"
+     inkscape:cx="-6.875"
+     inkscape:cy="34"
      inkscape:document-units="px"
      inkscape:current-layer="svg4428"
      showgrid="false"
@@ -528,7 +528,8 @@
        inkscape:connector-curvature="0"
        d="m 487.39077,656.36808 h 253.10495 c 33.70231,0 61.27969,-27.5774 61.27969,-61.2825 V 341.98345 Z M 707.4603,243.16607 H 453.35693 c -33.70609,0 -61.27967,27.57357 -61.27967,61.27873 V 558.54908 L 707.4603,243.16607"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.947253"
-       id="path4293-3" />
+       id="path4293-3"
+       sodipodi:nodetypes="csscccsscc" />
   </g>
   <g
      id="inactive-center"

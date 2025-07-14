@@ -425,38 +425,38 @@
        inkscape:export-ydpi="96" />
   </g>
   <g
+     id="pressed-inactive-center"
+     transform="matrix(0.02412621,0,0,-0.02412633,-2.5324342,44.039812)">
+    <path
+       id="path4"
+       style="fill:#23262e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.824347"
+       d="m 560.90588,1.6501479 c 251.8021,0 455.93162,204.1289721 455.93162,455.9330821 0,251.80519 -204.12952,455.93372 -455.93162,455.93372 -251.8096,0 -455.9398,-204.12853 -455.9398,-455.93372 0,-251.80411 204.1302,-455.9330821 455.9398,-455.9330821"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5"
+       style="fill:#5b5c63;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.721303"
+       d="m 555.80938,79.786458 c 204.5914,0 370.4458,165.857272 370.4458,370.447712 0,204.59139 -165.8544,370.44508 -370.4458,370.44508 -204.5952,0 -370.4498,-165.85369 -370.4498,-370.44508 0,-204.59044 165.8546,-370.447712 370.4498,-370.447712"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path4291-6-3"
+       style="fill:#84ff39;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.721303;opacity:0.45"
+       d="m 555.80938,79.786458 c 204.59142,0 370.44582,165.857272 370.44582,370.447712 0,204.59139 -165.8544,370.44508 -370.44582,370.44508 -204.5952,0 -370.4498,-165.85369 -370.4498,-370.44508 0,-204.59044 165.8546,-370.447712 370.4498,-370.447712"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 445.66198,660.73594 h 253.1049 c 33.7024,0 61.2798,-27.57728 61.2798,-61.28222 V 346.35274 Z m 220.0696,-413.20016 h -254.1034 c -33.7061,0 -61.2797,27.57343 -61.2797,61.27846 v 254.10313 l 315.3831,-315.38159"
+       style="fill:#232831;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.94725"
+       id="path6" />
+  </g>
+  <g
      id="pressed-center"
      transform="matrix(0.02412621,0,0,-0.02412633,-2.5324335,22.039812)">
-    <g
-       id="pressed-inactive-center"
-       transform="translate(-2.9014089e-5,-911.86683)">
-      <path
-         id="path4"
-         style="fill:#23262e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.824347"
-         d="m 560.90588,1.6501479 c 251.8021,0 455.93162,204.1289721 455.93162,455.9330821 0,251.80519 -204.12952,455.93372 -455.93162,455.93372 -251.8096,0 -455.9398,-204.12853 -455.9398,-455.93372 0,-251.80411 204.1302,-455.9330821 455.9398,-455.9330821"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <path
-         id="path5"
-         style="fill:#5b5c63;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.721303"
-         d="m 555.80938,79.786458 c 204.5914,0 370.4458,165.857272 370.4458,370.447712 0,204.59139 -165.8544,370.44508 -370.4458,370.44508 -204.5952,0 -370.4498,-165.85369 -370.4498,-370.44508 0,-204.59044 165.8546,-370.447712 370.4498,-370.447712"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <path
-         id="path4291-6-3"
-         style="fill:#84ff39;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.721303;opacity:0.45"
-         d="m 555.80938,79.786458 c 204.59142,0 370.44582,165.857272 370.44582,370.447712 0,204.59139 -165.8544,370.44508 -370.44582,370.44508 -204.5952,0 -370.4498,-165.85369 -370.4498,-370.44508 0,-204.59044 165.8546,-370.447712 370.4498,-370.447712"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 445.66198,660.73594 h 253.1049 c 33.7024,0 61.2798,-27.57728 61.2798,-61.28222 V 346.35274 Z m 220.0696,-413.20016 h -254.1034 c -33.7061,0 -61.2797,27.57343 -61.2797,61.27846 v 254.10313 l 315.3831,-315.38159"
-         style="fill:#232831;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.94725"
-         id="path6" />
-    </g>
     <path
        id="path4289-5"
        style="fill:#23262e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.824347"
